@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.34614edd.chunk.css",
-    "main.js": "/static/js/main.d98f6ba5.chunk.js",
-    "main.js.map": "/static/js/main.d98f6ba5.chunk.js.map",
+    "main.css": "/static/css/main.9b707052.chunk.css",
+    "main.js": "/static/js/main.29541469.chunk.js",
+    "main.js.map": "/static/js/main.29541469.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d0605945.js",
     "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
     "static/js/2.51f2f3dd.chunk.js": "/static/js/2.51f2f3dd.chunk.js",
     "static/js/2.51f2f3dd.chunk.js.map": "/static/js/2.51f2f3dd.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.34614edd.chunk.css.map": "/static/css/main.34614edd.chunk.css.map",
+    "static/css/main.9b707052.chunk.css.map": "/static/css/main.9b707052.chunk.css.map",
     "static/js/2.51f2f3dd.chunk.js.LICENSE.txt": "/static/js/2.51f2f3dd.chunk.js.LICENSE.txt",
+    "static/media/animine.b43d4123.mp4": "/static/media/animine.b43d4123.mp4",
     "static/media/photo.839926c7.jpg": "/static/media/photo.839926c7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d0605945.js",
     "static/js/2.51f2f3dd.chunk.js",
-    "static/css/main.34614edd.chunk.css",
-    "static/js/main.d98f6ba5.chunk.js"
+    "static/css/main.9b707052.chunk.css",
+    "static/js/main.29541469.chunk.js"
   ]
 }
