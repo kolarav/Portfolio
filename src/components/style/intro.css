@@ -1,0 +1,70 @@
+.intro {
+  display: flex;
+  width: 100%;
+  height: fit-content;
+  background-color: #1f2430;
+  align-items: center;
+  justify-content: center;
+  padding: 12vh 17vw;
+}
+.intro > div {
+  width: 98%;
+  max-width: 500px;
+}
+.welcome-div {
+  display: flex;
+  flex-direction: column;
+}
+
+code {
+  font-size: 16px;
+  font-family: "Fira Mono";
+  color: #8f54d9;
+  padding: 5px 0px;
+}
+
+h1,
+h3,
+h5 {
+  color: white;
+  margin-left: 40px;
+}
+h3 {
+  font-size: 22px;
+  font-weight: 400;
+}
+h5 {
+  color: #94f618;
+  font-size: 16px;
+  font-weight: 400;
+}
+.photo-div {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  margin-left: 15vw;
+}
+#photo {
+  margin: 10px 30px;
+  border-radius: 8px;
+  width: 25vh;
+  min-width: 180px;
+  max-width: 300px;
+}
+
+@media screen and (max-width: 830px) {
+  .intro {
+    flex-direction: column;
+    padding: 40px 10vw;
+  }
+  .welcome-div {
+    margin: 30px 0px;
+  }
+  #photo {
+    width: 50%;
+  }
+  .photo-div {
+    align-items: center;
+    margin-left: 0;
+  }
+}
