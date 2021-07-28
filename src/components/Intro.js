@@ -7,9 +7,9 @@ function Intro() {
     <div className="intro">
       <div className="welcome-div">
         <code>
-          &lt;h3 style= &#123;&#123; font-family: "Lucida HandWriting"
-          &#125;&#125; &gt;
-          <h3 style={{ fontFamily: "Lucida HandWriting" }}> Hello There ! </h3>
+          &lt;h3 style= &#123;&#123; font-family: "Kaushan Script" &#125;&#125;
+          &gt;
+          <h3 style={{ fontFamily: "Kaushan Script" }}> Hello There ! </h3>
           &lt;/h3&gt;
         </code>
         <code>
